@@ -16,4 +16,4 @@ As we intend to implement an adder of two numbers whith two bits each, we made u
 Just tap the play button, and tap the switch between 1-4 and you can see the result dsiplayed in binary trhough 3 LEDs. 
 ## External hardware
 
-3 LEDS, 1 deepswitch of 8 chanels.
+3 LEDS and 1 deepswitch of 8 chanels.
