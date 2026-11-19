@@ -9,12 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+As we intend to implement an adder of two numbers whith two bits each, we made use of "Logic table to Wokwi gates" to get the necessarly logic gates
 
 ## How to test
 
-Explain how to use your project
-
+Just tap the play button, and tap the switch between 1-4 and you can see the result dsiplayed in binary trhough 3 LEDs. 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+3 LEDS, 1 deepswitch of 8 chanels.
